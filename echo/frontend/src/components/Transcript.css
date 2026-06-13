@@ -1,0 +1,107 @@
+/* Transcript styling */
+.transcript-container {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1.5rem;
+  background-color: rgba(17, 24, 39, 0.4);
+  border-radius: 0.5rem;
+  border: 1px solid #1E293B;
+  max-height: 40vh;
+}
+
+.transcript-empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  color: #64748B;
+  font-family: "Inter", sans-serif;
+  font-size: 0.875rem;
+  text-align: center;
+  padding: 1rem;
+}
+
+.transcript-messages {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.transcript-entry {
+  display: flex;
+  animation: fadeIn 0.3s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.transcript-user {
+  justify-content: flex-end;
+}
+
+.transcript-assistant {
+  justify-content: flex-start;
+}
+
+.transcript-bubble {
+  max-width: 70%;
+  padding: 0.75rem 1rem;
+  border-radius: 0.75rem;
+  background-color: #111827;
+  border: 1px solid #1E293B;
+  word-wrap: break-word;
+}
+
+.transcript-user .transcript-bubble {
+  background-color: #6366F1;
+  border-color: #818CF8;
+}
+
+.transcript-text {
+  margin: 0 0 0.5rem 0;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.875rem;
+  color: #F8FAFC;
+  line-height: 1.5;
+}
+
+.transcript-user .transcript-text {
+  color: #FFFFFF;
+}
+
+.transcript-timestamp {
+  display: block;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 0.75rem;
+  color: #94A3B8;
+}
+
+.transcript-user .transcript-timestamp {
+  color: rgba(248, 250, 252, 0.6);
+}
+
+/* Scrollbar styling */
+.transcript-container::-webkit-scrollbar {
+  width: 6px;
+}
+
+.transcript-container::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.transcript-container::-webkit-scrollbar-thumb {
+  background: #475569;
+  border-radius: 3px;
+}
+
+.transcript-container::-webkit-scrollbar-thumb:hover {
+  background: #64748B;
+}

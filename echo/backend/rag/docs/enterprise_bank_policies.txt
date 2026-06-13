@@ -1,0 +1,288 @@
+FINSERV BANK - ENTERPRISE POLICIES AND PROCEDURES
+
+DISPUTE RESOLUTION POLICY
+=========================
+
+Dispute Resolution SLA (Service Level Agreement):
+- Debit Card Transaction Disputes: Investigation completed within 7 working days. If confirmed fraud, full refund within 10 working days.
+- Credit Card Disputes (Chargeback): Chargeback filed within 15 calendar days of dispute. Resolution within 60-90 days depending on card network.
+- Fund Transfer Disputes: For NEFT/RTGS/UPI, investigation within 3-5 working days. If reversal needed, funds returned within 24 hours.
+- Unauthorized Transactions: Full refund within 10 working days if fraud confirmed. Provisional credit may be issued immediately.
+
+Dispute Filing Process:
+1. Report within 30 days of transaction (required)
+2. Provide transaction reference, approximate amount, date, and merchant details
+3. Bank acknowledges within 24 hours with complaint reference number
+4. Investigation initiated - customer may be asked for additional documentation
+5. Findings communicated to customer with resolution status
+6. If resolved in customer favor, refund processed immediately
+7. If resolved against customer, detailed explanation provided in writing
+
+Escalation Path:
+- Level 1: Branch Customer Care (0-5 days)
+- Level 2: Regional Office (5-15 days)
+- Level 3: Corporate Complaints (15-30 days)
+- Banking Ombudsman: If issue unresolved after 30 days or customer unsatisfied
+
+Our Commitment:
+- 100% liability for fraudulent debit card transactions within 24 hours of reporting
+- No liability if customer shared PIN/OTP with unauthorized person
+- 0% customer liability for verified unauthorized credit card transactions
+- Investigation integrity: No bias toward bank or customer, third-party audits conducted annually
+
+FRAUD REPORTING AND PREVENTION
+===============================
+
+Fraud Reporting Procedure (24-Hour Hotline):
+1. Call 1800-FINSERV immediately (available 24/7, every day including holidays)
+2. Report nature of fraud: card cloning, unauthorized transaction, phishing, account takeover
+3. Provide transaction details: amount, date, time, merchant name, location
+4. Bank references your phone call and creates Fraud Report (FR) number
+5. Your card is instantly blocked by the security team
+6. Investigation starts immediately for high-value fraud (>Rs. 10,000)
+
+What to Do After Reporting:
+- Block your card immediately (self-block available in app)
+- Do not use the card for any transaction
+- Collect evidence: emails, messages, screenshots of suspicious activity
+- Change your password immediately from a different device
+- Monitor account for next 30 days - report any further unusual activity
+- Cooperate with investigation: provide requested documents, respond to queries
+
+Bank's Fraud Investigation Team:
+- Trained specialists analyze transaction patterns, device fingerprints, geolocation
+- Coordinates with law enforcement if criminal activity suspected
+- Contacts merchants to verify or decline transactions
+- Uses machine learning to flag suspicious patterns
+- May request customer statement, authentication records, device details
+
+Fraud Prevention Measures We Employ:
+- Real-time transaction monitoring: Detects anomalies instantly
+- Device fingerprinting: Flagged if login from unusual device/location
+- Behavioral analytics: Alerts on atypical spending patterns
+- Encryption: All sensitive data encrypted end-to-end
+- Rate limiting: Prevents rapid-fire transaction attempts
+- Biometric verification: For high-value transactions
+- Card tokenization: Prevents full card number exposure in online transactions
+- 3D Secure authentication: Mandatory for international and high-risk online purchases
+
+ACCOUNT DORMANCY POLICY
+=======================
+
+Dormancy Classification:
+- Account becomes dormant after 24 consecutive months of no deposits or withdrawals
+- Savings accounts: 2 years. Current accounts: 3 years. Loan accounts: 6 months after maturity.
+- No partial activity counts (e.g., only interest credits don't prevent dormancy)
+
+Dormancy Status Benefits & Restrictions:
+- Dormant account: Limited access, restricted withdrawals, no debit card usage
+- Dormant deposits and investments: Untouched but earning zero interest/returns
+- Standing instructions: Automatically suspended
+- Loan EMI: Account may be flagged for non-compliance if loan still active
+
+Dormancy Notification:
+- 1st Letter: Sent at 12 months - warning, request to activate
+- 2nd Letter: Sent at 18 months - final notice before dormancy
+- 3rd Letter: Sent at 24 months - account declared dormant, options provided
+- Email notifications with reactivation instructions sent at each stage
+
+Reactivation Process:
+- Visit any branch with original ID proof and account number
+- Fill Reactivation Form at branch (takes 5 minutes)
+- Account is reactivated immediately by branch manager
+- Full functionality restored: debit card activated, standing instructions resume, etc.
+- If account was used for loan/investments, corresponding status updated
+- No reactivation fee charged
+
+Special Cases:
+- Senior citizen accounts (60+): No dormancy for 10 years, then classified as dormant
+- NRI accounts: No dormancy if at least one annual transaction
+- Trust/Joint accounts: Dormancy if all co-owners have been inactive
+
+Dormant Account Escheat:
+- If account remains dormant for 10+ years, funds may be transferred to RBI under Unclaimed Deposits Act
+- Customer can claim funds from RBI with proof of ownership
+- Bank maintains records indefinitely
+
+MINIMUM BALANCE REQUIREMENTS
+=============================
+
+Account Type-wise Minimum Balance:
+1. Classic Savings Account:
+   - Minimum balance: Rs. 1,000
+   - Penalty for falling below: Rs. 50 per quarter
+   - Applies: All-India except metros (Rs. 2,500 in metros: Mumbai, Delhi, Bangalore, Hyderabad)
+
+2. Premium Savings Account:
+   - Minimum balance: Rs. 25,000
+   - Penalty: Rs. 100 per quarter if balance drops below
+   - Waived for: Senior citizens, students, first 6 months after opening
+
+3. Salary Account (Special):
+   - No minimum balance requirement
+   - Zero fees on all standard transactions
+   - Requirement: Salary >= Rs. 5,000 per month credited monthly
+   - Benefits: Free debit card, unlimited ATM withdrawals, no maintenance charges
+
+4. Student Account (Special):
+   - No minimum balance requirement until graduation
+   - After graduation (2 years): Automatically converts to Classic account with Rs. 1,000 minimum
+   - Free e-pass for one sibling account
+   - Benefits: Complimentary locker till Rs. 50,000 coverage
+
+5. Current Account (Business/Corporate):
+   - Minimum balance: Rs. 50,000 for standard, Rs. 1,00,000 for premium
+   - Penalty: Rs. 200 per quarter if average balance requirement not met
+   - Applies to: Sole proprietor, partnership, companies, organizations
+
+Penalty Calculation:
+- Penalty applied if balance falls below minimum on any day of the quarter
+- Charged in the following month
+- Multiple penalties can apply if balance stays below
+- Penalty is deducted from account automatically
+
+Waiver Policy:
+- Senior citizens (60+): 100% minimum balance waiver
+- Students: Waiver until graduation
+- First-time account opening: 6 months waiver
+- Account linked to disability: 50% waiver
+
+INTERNATIONAL TRANSACTION CHARGES
+==================================
+
+Foreign Exchange (FX) Rate:
+- Rates updated real-time, based on SWIFT/interbank rates
+- Markup added by FinServ: 0.75% on buy (when merchant charges), 0.75% on sell (when customer receives)
+- Current rate always shown before transaction confirmation
+
+Debit Card International Transactions:
+1. Overseas ATM Cash Withdrawal:
+   - Charge: 1.5% of amount (minimum Rs. 100, maximum Rs. 1,000)
+   - Plus FX markup: 0.75%
+   - Total: ~2.25% of transaction amount
+   - Limit: Rs. 2 lakhs per day, Rs. 5 lakhs per month
+
+2. International Online Purchase (Foreign Merchant):
+   - Charge: 1% of transaction amount
+   - Plus FX markup: 0.75%
+   - 3D Secure verification: Mandatory for security
+   - No limit on frequency, but fraud checks apply
+
+3. International Retail Purchase (Physical Card):
+   - Charge: 1% of amount
+   - Plus FX markup: 0.75%
+   - Applicable only if card processed internationally
+
+Credit Card International Charges:
+1. Foreign ATM Cash Advance:
+   - Charge: 2.5% of amount (minimum Rs. 200)
+   - Plus FX markup: 0.75%
+   - Interest: 3.5% per month from transaction date
+   - Daily limit: 50% of credit limit
+
+2. International Merchant Purchase:
+   - Charge: 2% of amount
+   - Plus FX markup: 0.75%
+   - Rewards still applied: Full rewards on international spend
+   - No charge for emergency cash advances (max Rs. 50,000, urgent authorization required)
+
+Waiver Policy:
+- Premium Cardholders: 50% waiver on international charges
+- LHW (Large High-Worth) customers (AUM > Rs. 50 lakh): 100% waiver on all FX charges
+- First international transaction: No charge (waived once per year)
+
+International Money Transfer (Outbound):
+- Channel: SWIFT transfers to foreign bank accounts
+- Charge: Rs. 500 (standard), Rs. 300 (premium), Rs. 0 (LHW)
+- Plus FX markup: 0.75%
+- Processing time: 2-3 business days
+- Limit: Up to customer's account balance, no individual transaction cap
+
+Inbound International Transfers:
+- Received amount converted to INR at receiving rate + 0.75% markup
+- No charge to recipient
+- Processing time: 1-2 business days depending on source country
+- SWIFT: 1-2 days, IMPS partners (few countries): instant
+
+INTEREST RATE POLICY
+====================
+
+Savings Account Interest:
+- Interest rates: Varies by balance and account tier (see FAQ for current rates)
+- Compounding: Quarterly (on 31st March, 30th June, 30th Sept, 31st Dec)
+- Min balance for interest: Rs. 1,000 (if below, no interest for that quarter)
+- Interest paid in: Same month as compounding, visible next business day
+- Tax: TDS at 10% applicable if interest > Rs. 10,000 per annum
+
+Fixed Deposit Interest:
+- Rates: Vary by tenure (7 days to 10 years), reviewed quarterly
+- Compounding: As per customer choice (monthly/quarterly/half-yearly/at maturity)
+- Senior citizen premium: Additional 0.5% on all tenures
+- Super Senior (80+): Additional 0.75%
+- Interest payout: Via standing instruction to savings account or cash withdrawal
+
+Recurring Deposit (RD):
+- Duration: 6 months to 10 years, minimum monthly deposit Rs. 500
+- Interest: Compounded quarterly, calculated on accumulated amount
+- Rate: Same as FD for equivalent tenure
+- Maturity: Lump sum of all deposits + accumulated interest
+- Loan against RD: Available at RD rate + 2%
+
+Loan Interest Rates:
+- Personal Loan: 8.5% to 18% p.a. (floating, reviewed quarterly with repo rate)
+- Home Loan: 6.5% to 9.5% p.a. based on LTV (Loan-to-Value ratio)
+- Auto Loan: 7.5% to 11% p.a.
+- Credit Card: 3.5% per month (42% p.a.) on unpaid balance
+- EMI: Equal monthly installment, interest calculated on reducing balance
+
+Floating vs Fixed Rates:
+- Floating: Linked to base rate, changes quarterly with RBI repo rate
+- Fixed: Rate locked at loan origination, doesn't change for loan tenure
+- Option to switch: Can convert floating to fixed (or vice versa) after 12 months, no charge
+
+Rate Reset Clause:
+- Floating rates reset quarterly (3 months) based on base rate
+- Reset date: 1st of every calendar quarter (Jan 1, Apr 1, Jul 1, Oct 1)
+- Customer notification: Email and SMS sent 15 days before reset
+- EMI adjusted if balance outstanding, new EMI calculated
+
+ACCOUNT CLOSURE AND FUND TRANSFER
+==================================
+
+Closure Eligibility:
+- All outstanding loans fully repaid
+- All disputes/complaints resolved
+- No pending transactions or holds
+- No dormancy or legal holds
+- Credit card (if attached) fully settled
+
+Closure Procedure:
+1. Visit home branch with account holder ID
+2. Fill Account Closure Form (available in branch or online)
+3. Declare any pending checks or standing instructions to be stopped
+4. Request outstanding cheques to be marked "Account Closed"
+5. Final statement issued on the spot
+6. Outstanding balance transferred to specified account within 5-7 working days
+
+Outstanding Balance Transfer:
+- Method: NEFT to customer's other account (in-bank or any bank)
+- Charges: Free (waived)
+- Account Details needed: Recipient account number, bank name, IFSC code, account holder name
+- Timeline: 5-7 working days
+- Confirmation: Email and SMS sent when transfer initiates and completes
+
+Closure Charges:
+- Standard: Free (no charge)
+- Express closure (same-day): Rs. 500 (rarely offered, requires executive approval)
+- Multiple closure attempts (>3 in 12 months): May indicate service issues, investigated
+
+Final Statement and Records:
+- Final statement issued immediately at branch or within 24 hours if digital request
+- Records maintained: 7 years (regulatory requirement)
+- Loans/Credit Cards: Account closure doesn't affect linked credit products, must be separately closed
+- Safe Deposit Locker: Must be vacated before account closure
+
+Unclaimed Funds:
+- If final balance not claimed for 5 years: Transferred to RBI Unclaimed Deposits Fund
+- Customer can claim anytime with proof of ownership (death certificate if account holder deceased)
+- No interest on claimed funds after transfer to RBI

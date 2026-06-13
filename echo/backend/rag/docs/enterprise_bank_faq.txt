@@ -1,0 +1,154 @@
+FINSERV BANK - ENTERPRISE CUSTOMER SUPPORT FAQ
+
+ACCOUNT MANAGEMENT
+=================
+
+Q: How do I open a new savings account?
+A: You can open a savings account online through our mobile app or website, or visit any FinServ Bank branch with your KYC documents (Aadhaar, PAN, address proof). The process takes 5-10 minutes. Basic requirements: Indian resident, 18+ years old, valid ID and address proof.
+
+Q: What are the KYC requirements for account opening?
+A: You need to submit: 1) Photo ID (Aadhaar, Passport, or Voter ID), 2) Address proof (utility bill, rental agreement, or Aadhaar), 3) PAN card (for tax compliance). If using Aadhaar, we can do e-KYC in real-time. Physical documents can be verified within 2 working days.
+
+Q: Can I close my savings account online?
+A: Yes, you can initiate account closure through our mobile app or by visiting a branch. You'll need to settle any outstanding obligations. Account closure typically completes within 5-7 working days. Final statement and remaining balance will be transferred to your registered bank account.
+
+Q: What is the minimum balance requirement?
+A: For Classic Savings: Rs. 1,000 minimum. For Premium Savings: Rs. 25,000 minimum. For Salary accounts: Rs. 10,000 average monthly balance. Falling below minimum balance may result in a penalty of Rs. 50-100 per quarter.
+
+Q: How do I upgrade my account from Classic to Premium?
+A: Visit any branch with valid ID or request upgrade through our mobile app. Premium account offers higher interest rates (6.5% vs 4.5%), priority customer service, and higher daily withdrawal limits. Upgrade is immediate with no charges.
+
+Q: What is account dormancy?
+A: An account is considered dormant if there has been no deposit or withdrawal for 24 consecutive months. Dormant accounts have limited access and may incur maintenance charges. To reactivate, visit a branch with valid ID and request reactivation.
+
+TRANSACTIONS AND TRANSFERS
+==========================
+
+Q: What are the NEFT transfer limits?
+A: NEFT has no daily transaction limit. However, banks may have individual limits based on account type. Classic Savings: Rs. 10 lakh per transaction. Premium: Rs. 50 lakh per transaction. Settlement happens within 2 hours during banking hours, and within 1 hour for same-bank transfers.
+
+Q: What is RTGS and when should I use it?
+A: RTGS (Real Time Gross Settlement) is for high-value transfers above Rs. 2 lakh. Funds are transferred in real-time to beneficiary banks. RTGS charges: Rs. 0 for Classic, Rs. 0 for Premium (waived). Settlement is typically within 30 minutes.
+
+Q: How long does UPI transfer take?
+A: UPI transfers are instant (within seconds) to any UPI-enabled account in India. Daily UPI limit: Rs. 1 lakh for Classic, Rs. 5 lakh for Premium accounts. IMPS option is available for large urgent transfers, settled within 30 minutes.
+
+Q: Can I schedule recurring transfers?
+A: Yes, you can set up standing instructions for recurring payments. You can choose monthly, quarterly, or custom intervals. Standing instructions are free and can be modified or cancelled anytime through the app.
+
+Q: What happens if a transfer fails?
+A: Failed transfers are automatically reversed within 24 hours. The amount will be credited back to your account with a notification. If reversal doesn't happen, contact our support immediately with transaction reference number.
+
+Q: How do I add a beneficiary for transfers?
+A: Add beneficiary through app: Account Number, IFSC, Beneficiary Name. Verification: Most transfers are instant. For new bank beneficiaries, a verification deposit may be required (usually Re. 1). First transfer is held for 24 hours for security.
+
+CARDS AND FRAUD PREVENTION
+===========================
+
+Q: How do I order a new debit card?
+A: Request card issuance through our mobile app, call our hotline, or visit any branch. Standard delivery: 5-7 working days. Express delivery (premium): 2-3 working days for Rs. 50 fee. Card will arrive to registered address.
+
+Q: What should I do if my card is lost?
+A: Immediately block the card through the app (instant) or call us at 1800-FINSERV. Replacement card is issued with a new number. You can order an instant virtual card through the app for online transactions while physical card arrives (5-7 days).
+
+Q: How do I set daily withdrawal and transaction limits?
+A: Log into mobile app → Settings → Limits. You can set daily ATM withdrawal (Rs. 10,000 - Rs. 5 lakh), daily online spending (Rs. 5,000 - Rs. 10 lakh), and daily contact-less limit (Rs. 2,000 default). Changes take effect immediately.
+
+Q: Is my card secure with online purchases?
+A: Yes, we use 3D Secure (Verified by Visa/Mastercard) for all online transactions above Rs. 2,000. You'll receive an OTP for verification. Additionally, merchants cannot store full card numbers — only masked versions. We monitor for fraudulent patterns automatically.
+
+Q: What happens if I report fraud?
+A: Immediately call us at 1800-FINSERV (available 24/7). Block the card, file a complaint with reference number. If fraud is confirmed within 3 working days, you receive 100% refund. Disputed transactions are reversed instantly while investigation proceeds.
+
+LOANS AND CREDIT
+================
+
+Q: What are the personal loan eligibility requirements?
+A: Personal Loan Eligibility: Age 21-60 years, Indian resident, salaried or self-employed, minimum annual income Rs. 2.4 lakhs, credit score 650+. Loan amount: Rs. 50,000 to Rs. 25 lakhs. Interest rate: 8.5%-18% depending on profile.
+
+Q: What is the current personal loan interest rate?
+A: Personal Loan rates: Standard: 10.5% per annum, Premium (salary account): 9.5%, Super Premium (high net worth): 8.5%. Rates are floating and subject to RBI repo changes quarterly. Tenure: 12-60 months. Processing fee: 1% of loan amount.
+
+Q: How long does it take to get personal loan approval?
+A: We offer instant approval for eligible applicants with salary account history. Approval typically within 2-4 hours after document submission. Once approved, funds are disbursed to your account within 24 hours. Maximum documentation required: salary slip, bank statements, ID proof.
+
+Q: What are the credit card eligibility criteria?
+A: Credit Card Eligibility: Age 21+, Indian resident, minimum annual income Rs. 2 lakhs (employee) or Rs. 5 lakhs (self-employed), credit score 700+. We offer Credit Cards from Zero Annual Fee to Premium variants with annual fees Rs. 500-5,000.
+
+Q: What are the credit limit and interest rates on credit cards?
+A: Credit limits: Rs. 5,000 to Rs. 10 lakhs based on income and credit score. Interest on unpaid balance: 3.5% per month (42% p.a.). Cash advance charges: 2.5% fee + interest from drawdown date. Minimum payment: 5% of outstanding balance due.
+
+Q: What rewards do credit cards offer?
+A: FinServ Credit Cards offer: 1% cash-back on all purchases, 3% on groceries and fuel. Premium card: 5% on travel, 2% on dining. Rewards are auto-credited to your account within 48 hours. Minimum redemption: Rs. 1,000. Rewards valid for 3 years.
+
+Q: How do I pay my credit card bill?
+A: Payment options: 1) Auto-pay setup (full or minimum), 2) Mobile app or website, 3) Through ATM, 4) Cheque deposit at any branch, 5) Standing instruction from your salary account. All digital payments are instant and free. Due date is 21 days from statement date.
+
+FIXED DEPOSITS AND SAVINGS
+===========================
+
+Q: What are the current fixed deposit interest rates?
+A: Fixed Deposit Rates (Senior Citizens get +0.5% additional): 7 days - 7.25% p.a., 15 days - 7.5% p.a., 1 month - 7.75% p.a., 3 months - 8.0% p.a., 6 months - 8.25% p.a., 1 year - 8.5% p.a., 2 years - 8.75% p.a., 3+ years - 9.0% p.a. Rates are reviewed quarterly.
+
+Q: What is the minimum amount for a fixed deposit?
+A: Minimum FD amount: Rs. 10,000. You can also open digital fractional FDs from Rs. 100 through our app. Senior citizens (60+) get preferential rates. Maximum limit per FD: Rs. 1 crore at single branch.
+
+Q: Can I withdraw money from FD before maturity?
+A: Yes, premature withdrawal allowed after 7 days from opening with penalty: -1% per annum for FDs up to 6 months, -0.5% p.a. for FDs above 6 months. Alternative: FD loan against FD available at 2% above FD rate.
+
+Q: How do I renew my fixed deposit?
+A: Set auto-renewal during FD opening to automatically renew at maturity at prevailing rates. Or manually renew within 30 days of maturity without penalty. After 30 days, funds sit in savings account earning lower interest. Renewal is free.
+
+Q: What is the current savings account interest rate?
+A: Savings Account Interest: Balance up to Rs. 1 lakh - 4.5% p.a., Rs. 1 lakh to Rs. 25 lakhs - 5.5% p.a., Above Rs. 25 lakhs - 6.5% p.a. Premium Savings: +1% additional on all slabs. Interest is credited quarterly on last day of each quarter.
+
+BRANCHES AND ATM NETWORK
+========================
+
+Q: How do I find the nearest FinServ Bank branch or ATM?
+A: Visit our website or mobile app → Branch/ATM Locator. Search by location, branch code, or service type. You can filter for: 24-hour branches, services offered (loans, deposits), ATM type (cash deposit, card issuance). Over 2,500 branches and 8,000 ATMs nationwide.
+
+Q: Can I do banking at any branch?
+A: Yes, you can do most transactions at any branch across India. Some services (account opening, large loans) may require home branch. For services not available at branch, officers can arrange within 24-48 hours. Call ahead for complex services.
+
+Q: Are ATM charges applicable?
+A: ATM cash withdrawals: Free up to 5 per month. 6-10 withdrawals per month: Rs. 20 each. Above 10: Rs. 20 each. Premium account members: 10 free withdrawals per month. Non-financial transactions (balance check): Free and unlimited.
+
+Q: What is the daily ATM cash withdrawal limit?
+A: Daily cash withdrawal limit: Rs. 1 lakh at ATM. You can request limit increase through mobile app or branch. Daily cumulative limit across all ATMs: Classic Rs. 2 lakhs, Premium Rs. 5 lakhs. Limit resets at midnight daily.
+
+CUSTOMER SERVICE AND SUPPORT
+============================
+
+Q: How can I contact FinServ Bank customer support?
+A: Customer Support Channels: 1) Phone: 1800-FINSERV (toll-free), 2) Mobile app chat support (24/7), 3) Email: support@finservbank.com, 4) Branch visit, 5) Social media (@FinServBankOfficial). Response time: 15 minutes for critical issues, 2 hours for regular.
+
+Q: What is your complaint resolution SLA?
+A: For banking complaints: Acknowledgment within 24 hours, resolution within 30 days for standard issues, 7 working days for critical (fraud, unauthorized transactions). For unresolved complaints, escalate to Banking Ombudsman after 30 days. We maintain 95%+ first-contact resolution rate.
+
+Q: How do I update my phone number and email?
+A: Update through: Mobile app (instant), Branch visit (immediate), Call us (24-48 hours). After update, you'll receive OTP on both old and new numbers for verification. Email and phone are used for all notifications, transaction alerts, and authentication.
+
+Q: Can I request account statement?
+A: Yes, statements available: 1) Last 12 months online instantly (free), 2) Physical statement mailed monthly (included), 3) Custom statements for specific date range, 4) Certified statement for loans/visa (Rs. 50 per copy). Statements are digital by default.
+
+Q: Do I need to keep physical documents at the bank?
+A: No, we maintain digital records. After KYC verification, documents are returned or destroyed per RBI norms. You can access digital copies anytime through the app. For loans/applications, we may request certified physical copies (bank responsibility to get certified).
+
+PASSWORD AND SECURITY
+=====================
+
+Q: How do I reset my online banking password?
+A: Password reset options: 1) Forgot Password link on login page (instant), 2) Mobile app, 3) SMS OTP to registered number, 4) Call customer care (24-48 hours verification). New password must be 8+ characters, include uppercase, lowercase, number, special character.
+
+Q: What is two-factor authentication (2FA)?
+A: 2FA adds security layer: After entering username/password, an OTP is sent to your registered mobile number. You must enter this OTP within 5 minutes. 2FA is mandatory for high-value transactions (above Rs. 1 lakh online or Rs. 2 lakh ATM).
+
+Q: Can I set biometric login for the mobile app?
+A: Yes, enable fingerprint or face recognition for instant app access. Biometric is as secure as password (uses same encryption). Biometric and password together ensure account security. You can enable/disable anytime in app settings.
+
+Q: What should I do if I forget my login ID?
+A: Your Login ID is your registered email or phone number. If forgotten, visit any branch with ID proof for verification. Or call customer care with account number + recent transaction details for verification. A new login ID can be generated within 24 hours.
+
+Q: How often should I change my password?
+A: We recommend changing password every 90 days. You can also change after suspicious activity. Force password change is triggered if: no change in 180 days, multiple failed login attempts, account access from new location. Change password immediately on suspicion of compromise.

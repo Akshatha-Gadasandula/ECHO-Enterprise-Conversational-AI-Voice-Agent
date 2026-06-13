@@ -1,0 +1,90 @@
+/* StatusBar styling */
+.status-bar {
+  position: sticky;
+  top: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem 2rem;
+  background-color: #0A0F1E;
+  border-bottom: 1px solid #1E293B;
+  z-index: 100;
+  font-family: "Inter", sans-serif;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: #10B981;
+  animation: pulse-dot 2s ease-in-out infinite;
+}
+
+@keyframes pulse-dot {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+.status-text {
+  color: #94A3B8;
+}
+
+.status-idle .status-dot {
+  background-color: #6366F1;
+  animation: none;
+}
+
+.status-idle .status-text {
+  color: #6366F1;
+}
+
+.status-listening .status-dot {
+  background-color: #10B981;
+  animation: pulse-dot 1s ease-in-out infinite;
+}
+
+.status-listening .status-text {
+  color: #10B981;
+}
+
+.status-processing .status-dot {
+  background-color: #F59E0B;
+  animation: spin-dot 1s linear infinite;
+}
+
+@keyframes spin-dot {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.status-processing .status-text {
+  color: #F59E0B;
+}
+
+.status-speaking .status-dot {
+  background-color: #6366F1;
+  animation: pulse-dot 0.5s ease-in-out infinite;
+}
+
+.status-speaking .status-text {
+  color: #6366F1;
+}
+
+.status-error .status-dot {
+  background-color: #EF4444;
+  animation: none;
+}
+
+.status-error .status-text {
+  color: #EF4444;
+}
